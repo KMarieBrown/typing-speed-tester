@@ -2,7 +2,7 @@
 
 ![Typing Speed Tester Screenshot](assets/images/tester-screenshot.png "Typing Speed Tester Preview")
 
-This project comes from the JavaScript Exxential Training course on Lynda, completed via [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training-3?pathUrn=urn%3Ali%3AlyndaLearningPath%3A59370541498ec352a683231c) by Morten Rand-Hendriksen on 4/1/2019.
+This project comes from the JavaScript Essential Training course on Lynda, completed via [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training-3?pathUrn=urn%3Ali%3AlyndaLearningPath%3A59370541498ec352a683231c) by Morten Rand-Hendriksen on 4/1/2019.
 
 ## Getting Started
 
